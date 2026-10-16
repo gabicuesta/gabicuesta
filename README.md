@@ -34,7 +34,8 @@ Earlier hands-on work: iOS (Swift / Objective‑C), Angular and Unity. I still m
 
 #### Find me
 
-🌐 [gabrielcuesta.com](https://www.gabrielcuesta.com) <!-- · 💼 [LinkedIn](https://www.linkedin.com/in/YOUR-PROFILE) -->
+🌐 [gabrielcuesta.com](https://www.gabrielcuesta.com) 
+💼 [LinkedIn](https://www.linkedin.com/in/gabicuesta)
 
 ---
 
