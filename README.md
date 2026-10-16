@@ -10,15 +10,13 @@ I believe technology should be **invisible to users, profitable for the business
 
 #### What I'm working on
 
-<!-- Keep only the projects that are already public; add the link when each repo exists. -->
-
 | Project | What it explores |
 |---|---|
-| **AI renovation estimator** | Multimodal model (photos + description) → structured, itemised estimate with confidence ranges. Evals included. |
-| **MCP server for Spanish public data** | Letting AI agents query Catastro, BOE and INE through the Model Context Protocol. |
-| **LLM gateway** | Model routing, caching, PII redaction, per-team budgets and OpenTelemetry tracing. |
-| **Evals playbook** | Comparing models on a business task by quality, cost and latency, with regression checks in CI. |
-| **Agentic engineering template** | How an engineering team works with AI agents: conventions, subagents, hooks, AI-assisted PR review and metrics. |
+| **[spain-open-data-mcp](https://github.com/gabicuesta/spain-open-data-mcp)** | MCP server that gives AI agents reliable access to Spanish public data: INE statistics, the BOE and the Catastro. Typed read-only tools, tolerant parsing, weekly live checks in CI. |
+
+<!-- Add each new project here when its repo is public: renovation estimator, LLM gateway, evals playbook, agentic engineering template. -->
+
+*Coming next: an AI renovation estimator, an LLM gateway and an evals playbook.*
 
 #### How I think about AI in engineering
 
@@ -34,8 +32,7 @@ Earlier hands-on work: iOS (Swift / Objective‑C), Angular and Unity. I still m
 
 #### Find me
 
-🌐 [gabrielcuesta.com](https://www.gabrielcuesta.com) 
-💼 [LinkedIn](https://www.linkedin.com/in/gabicuesta)
+🌐 [gabrielcuesta.com](https://www.gabrielcuesta.com) · 💼 [LinkedIn](https://www.linkedin.com/in/gabicuesta)
 
 ---
 
@@ -52,11 +49,8 @@ Creo que la tecnología debe ser **invisible para el usuario, rentable para el n
 
 **En qué estoy trabajando**
 
-- **Presupuestador de reformas con IA:** de fotos y una descripción a un presupuesto por partidas, con rangos de confianza y evals.
-- **Servidor MCP de datos públicos españoles:** Catastro, BOE e INE accesibles para agentes de IA.
-- **LLM gateway:** enrutado entre modelos, caché, redacción de datos personales, presupuestos por equipo y trazas.
-- **Playbook de evals:** comparar modelos por calidad, coste y latencia, con regresiones en CI.
-- **Plantilla de ingeniería con agentes:** cómo trabaja un equipo con agentes de IA en el día a día.
+- **[spain-open-data-mcp](https://github.com/gabicuesta/spain-open-data-mcp):** servidor MCP que da a los agentes de IA acceso fiable al INE, el BOE y el Catastro.
+- *Próximamente: un presupuestador de reformas con IA, un LLM gateway y un playbook de evals.*
 
 **Cómo entiendo la IA en ingeniería**
 
