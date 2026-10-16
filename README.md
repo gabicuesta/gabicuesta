@@ -13,10 +13,11 @@ I believe technology should be **invisible to users, profitable for the business
 | Project | What it explores |
 |---|---|
 | **[spain-open-data-mcp](https://github.com/gabicuesta/spain-open-data-mcp)** | MCP server that gives AI agents reliable access to Spanish public data: INE statistics, the BOE and the Catastro. Typed read-only tools, tolerant parsing, weekly live checks in CI. |
+| **[ai-renovation-estimator](https://github.com/gabicuesta/ai-renovation-estimator)** | Photos + description → itemised renovation estimate with price ranges and confidence. The model decides *what*, code computes *how much* and flags anything suspicious. Runs on Claude, GPT and Gemini, with evals comparing quality, cost and latency. |
 
-<!-- Add each new project here when its repo is public: renovation estimator, LLM gateway, evals playbook, agentic engineering template. -->
+<!-- Add each new project here when its repo is public: LLM gateway, evals playbook, agentic engineering template. -->
 
-*Coming next: an AI renovation estimator, an LLM gateway and an evals playbook.*
+*Coming next: an LLM gateway and an agentic engineering template.*
 
 #### How I think about AI in engineering
 
@@ -50,7 +51,8 @@ Creo que la tecnología debe ser **invisible para el usuario, rentable para el n
 **En qué estoy trabajando**
 
 - **[spain-open-data-mcp](https://github.com/gabicuesta/spain-open-data-mcp):** servidor MCP que da a los agentes de IA acceso fiable al INE, el BOE y el Catastro.
-- *Próximamente: un presupuestador de reformas con IA, un LLM gateway y un playbook de evals.*
+- **[ai-renovation-estimator](https://github.com/gabicuesta/ai-renovation-estimator):** de fotos y una descripción a un presupuesto de reforma por partidas, con rangos y confianza. Funciona con Claude, GPT y Gemini, e incluye evals que los comparan.
+- *Próximamente: un LLM gateway y una plantilla de ingeniería con agentes.*
 
 **Cómo entiendo la IA en ingeniería**
 
