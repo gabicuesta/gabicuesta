@@ -27,7 +27,7 @@ I believe technology should be **invisible to users, profitable for the business
 #### Background
 
 Digital product development · technical architecture · scaling engineering teams.
-Earlier hands-on work: iOS (Swift / Objective‑C), Angular and Unity. I still make small games for fun: *Madriz Riders* and *Flappy the Ghost*, a **ZX Spectrum** title, because constraints make you a better engineer.
+Earlier hands-on work: iOS (Swift / Objective‑C), Angular and Unity. I still make small games for fun: *Madriz Riders*, *Flappy the Ghost* (a **ZX Spectrum** title, because constraints make you a better engineer) and **[Bloqtrix](https://gabicuesta.github.io/bloqtrix/)**, a block puzzle built with Claude Code.
 
 #### Find me
 
@@ -60,6 +60,6 @@ Creo que la tecnología debe ser **invisible para el usuario, rentable para el n
 - **Los agentes potencian a los equipos.** El objetivo son mejores ingenieros, no estándares más bajos.
 - **Arquitectura aburrida; innovación solo donde compensa.**
 
-**Trayectoria:** desarrollo de producto digital, arquitectura técnica y escalado de equipos. Antes, mucho código en iOS, Angular y Unity. Sigo haciendo pequeños juegos por diversión: *Madriz Riders* y *Flappy the Ghost*, para **ZX Spectrum**.
+**Trayectoria:** desarrollo de producto digital, arquitectura técnica y escalado de equipos. Antes, mucho código en iOS, Angular y Unity. Sigo haciendo pequeños juegos por diversión: *Madriz Riders*, *Flappy the Ghost* (para **ZX Spectrum**) y **[Bloqtrix](https://gabicuesta.github.io/bloqtrix/)**, un puzzle de bloques hecho con Claude Code.
 
 </details>
